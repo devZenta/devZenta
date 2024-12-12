@@ -1,6 +1,6 @@
 # 💫About Me :
 
-![Bannière](./githubBanner.png)
+![Bannière](./enGithubBanner.png)
 
 
 👋 Hi, my name's Hugo Ghesquier, I'm 18 and I've been passionate about computers since I was very young.<br>
