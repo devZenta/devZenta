@@ -1,7 +1,11 @@
 # 💫About Me :
-👋 Hi, my name's Hugo Ghesquier, I'm 18 and I've been passionate about computers since I was very young.
-🎓 I am currently studying computer science at ENIGMA-School based in Lille.
-🔍 I'm looking for an internship in backend development or cyber security.
+
+![Bannière](./githubBanner.png)
+
+
+👋 Hi, my name's Hugo Ghesquier, I'm 18 and I've been passionate about computers since I was very young.<br>
+🎓 I am currently studying computer science at ENIGMA-School based in Lille.<br>
+🔍 I'm looking for an internship in backend development or cyber security.<br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-ghesquier) 
