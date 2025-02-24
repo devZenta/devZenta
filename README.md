@@ -21,5 +21,5 @@
 ![](https://github-trophies.vercel.app/?username=devZenta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## #30NitesOfCode:
-[Check out my progress!](https://www.codedex.io/@zenta/30-nites-of-code)  
+  [Check out my progress!](https://www.codedex.io/@zenta/30-nites-of-code)  
 ![@zenta #30NitesOfCode](https://www.codedex.io/api/petStatus?user=zenta)
