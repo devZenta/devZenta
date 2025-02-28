@@ -21,3 +21,5 @@
 ![](https://github-trophies.vercel.app/?username=devZenta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 [![wakatime](https://wakatime.com/badge/user/289e26fc-eed9-4d20-a7c3-88085f354fa1.svg)](https://wakatime.com/@289e26fc-eed9-4d20-a7c3-88085f354fa1)
+
+![Discord Status](https://lanyard.cnrad.dev/api/545366231939547136)
