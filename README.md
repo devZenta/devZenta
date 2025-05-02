@@ -7,6 +7,10 @@
 🎓 I am currently studying computer science at ENIGMA-School based in Lille.<br>
 🔍 I'm looking for an internship in backend development or cyber security.<br>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
 # 🎵My Activity
 &nbsp;<div>
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/hugo59520?si=5938d0dd0fba42be)
