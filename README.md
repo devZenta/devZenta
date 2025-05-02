@@ -9,6 +9,7 @@
 
 #
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+#
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-ghesquier) 
@@ -20,7 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devZenta&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devZenta&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
+# 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=devZenta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 [![wakatime](https://wakatime.com/badge/user/289e26fc-eed9-4d20-a7c3-88085f354fa1.svg)](https://wakatime.com/@289e26fc-eed9-4d20-a7c3-88085f354fa1)
