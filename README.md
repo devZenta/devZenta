@@ -7,7 +7,7 @@
 🎓 I am currently studying computer science at ENIGMA-School based in Lille.<br>
 🔍 I'm looking for an internship in backend development or cyber security.<br>
 
-# 
+# 🎵My Activity
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 
 # 🌐Socials
@@ -23,7 +23,7 @@
 # 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=devZenta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-#
+# 🧑‍💻My contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devZenta/devZenta/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devZenta/devZenta/output/github-snake.svg" />
