@@ -8,7 +8,7 @@
 🔍 I'm looking for an internship in backend development or cyber security.<br>
 
 # 🎵My Activity
-&nbsp;<div align="center">
+&nbsp;<div>
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/hugo59520?si=5938d0dd0fba42be)
 </div>
 
