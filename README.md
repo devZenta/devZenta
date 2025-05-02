@@ -23,10 +23,12 @@
 # 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=devZenta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devZenta/devZenta/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devZenta/devZenta/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/devZenta/devZenta/output/github-snake.svg" />
 </picture>
 
+#
 [![wakatime](https://wakatime.com/badge/user/289e26fc-eed9-4d20-a7c3-88085f354fa1.svg)](https://wakatime.com/@289e26fc-eed9-4d20-a7c3-88085f354fa1)
