@@ -7,7 +7,9 @@
 🎓 I am currently studying computer science at ENIGMA-School based in Lille.<br>
 🔍 I'm looking for an internship in backend development or cyber security.<br>
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/hugo59520?si=587824daf86d472e)<br/>
+#
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)<br/>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-ghesquier) 
