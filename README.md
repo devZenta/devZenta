@@ -3,7 +3,7 @@
 ![Bannière](./enGithubBanner.png)
 
 
-👋 Hi, my name's Hugo Ghesquier, I'm 18 and I've been passionate about computers since I was very young.<br>
+👋 Hi, my name's Hugo Ghesquier, I'm 19 and I've been passionate about computers since I was very young.<br>
 🎓 I am currently studying computer science at ENIGMA-School based in Lille.<br>
 🔍 I'm looking for an internship in backend development or cyber security.<br>
 
