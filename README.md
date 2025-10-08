@@ -16,7 +16,7 @@
 # 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=devZenta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-# 🧑‍💻My contributions
+# ⏳Total coding time
 <!--START_SECTION:waka-->
 
 ```txt
@@ -32,6 +32,9 @@ Java          24 hrs 29 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+# 🧑‍💻My contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devZenta/devZenta/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devZenta/devZenta/output/github-snake.svg" />
