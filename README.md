@@ -20,11 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          22 hrs 6 mins   █████████████████▒░░░░░░░   69.73 %
-Batchfile    3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-Python       3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-JSON         1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-INI          32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+From: 19 October 2024 - To: 07 October 2025
+
+Total Time: 637 hrs 50 mins
+
+Python        362 hrs 3 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.76 %
+TypeScript    73 hrs 12 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.48 %
+JavaScript    66 hrs 55 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.49 %
+PHP           24 hrs 54 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.91 %
+Java          24 hrs 29 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.84 %
 ```
 
 <!--END_SECTION:waka-->
