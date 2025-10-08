@@ -21,6 +21,8 @@
 ![](https://github-trophies.vercel.app/?username=devZenta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # 🧑‍💻My contributions
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devZenta/devZenta/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devZenta/devZenta/output/github-snake.svg" />
