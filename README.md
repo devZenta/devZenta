@@ -1,4 +1,4 @@
-![Bannière](./enGithubBanner.png)
+![Bannière](./public/GithubBanner.png)
 
 # ⚙️Tech Stack
 <a href="https://skillicons.dev">
